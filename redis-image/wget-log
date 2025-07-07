@@ -1,0 +1,6 @@
+--2025-07-07 07:06:50--  https://att-c.udemycdn.com/2025-04-01_18-06-31-5e8e51e60a46b6b7589b8d579b847c4a/original.zip?response-content-disposition=attachment%3B+filename%3D38-node-server.zip
+Resolving att-c.udemycdn.com (att-c.udemycdn.com)... 108.159.15.30, 108.159.15.102, 108.159.15.65, ...
+Connecting to att-c.udemycdn.com (att-c.udemycdn.com)|108.159.15.30|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2025-07-07 07:06:51 ERROR 403: Forbidden.
+
